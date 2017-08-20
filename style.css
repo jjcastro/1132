@@ -28,6 +28,10 @@ span.title {
     padding: 0;
 }
 
+a, a:visited, a:active, a:focus, a:hover {
+    color: black;
+}
+
 p {
     font-family: 'roboto-mono';
     font-size: 0.8em;
